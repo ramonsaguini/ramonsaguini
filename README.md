@@ -6,12 +6,20 @@
 
  - You will find everything from simple repositories to complex repositories
 
-### Languages
+### Languages/Frameworks/....
 
 - HTML <img src="./assets/img/html.png" alt="html icon" width="30" height="30">
 - CSS <img src="./assets/img/css-3.png" alt="css icon" width="30" height="30">
+- Api <img src="./assets/img/api.png" alt="API icon" width="30" height="30">
 - JavaScrpt <img src="./assets/img/js.png" alt="javascript icon" width="30" height="30"> in learning <img src="./assets/img/loading.gif" alt="loading icon" width="20" height="20">
 - BootStrap <img src="./assets/img/bootstrap.png" alt="bootstrap icon" width="30" height="30"> in learning <img src="./assets/img/loading.gif" alt="loading icon" width="20" height="20">
+- Node Js <img src="./assets/img/nodejs.png" alt="de Js icon" width="30" height="30"> in learning <img src="./assets/img/loading.gif" alt="loading icon" width="20" height="20">
+- React Js <img src="./assets/img/react.png" alt="React Js icon" width="30" height="30"> in learning <img src="./assets/img/loading.gif" alt="loading icon" width="20" height="20">
+- Jquery <img src="./assets/img/jquery-icon-2018x2048-nrk2gcih.png" alt="Jquery icon" width="30" height="30"> in learning <img src="./assets/img/loading.gif" alt="loading icon" width="20" height="20">
+
+
+
+
 ---
 ### 🤝 Contribution
 - Contributions are welcome! Feel free to open an issue or send a pull request.
